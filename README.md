@@ -1,9 +1,10 @@
-### Hi there 👋
+# Hi there 👋 [![Linkedin Badge](https://img.shields.io/badge/-Ram_Babu-blue?style=round-square&logo=Linkedin&logoColor=white&link=https://www.linkedin.com/in/ram-babu-kottapally)](https://www.linkedin.com/in/ram-babu-kottapally)
 
 - 🌱 I’m currently learning **Django**
 - 🔭 I’m currently working on a **Django Project** and also do **Competitive Programming**
 - 💬 Ask me about **Python**
 - 😄 Pronouns: He/Him
+- ⚡ Languages: Python3 and C
 
 
 <!--
