@@ -5,7 +5,7 @@
 - 🔭 I’m currently working on a **Django Project** and also do **Competitive Programming**
 - 💬 Ask me about **Python**
 - 😄 Pronouns: He/Him
-- ⚡ Languages: Python3 | SQL | HTML | CSS.
+- ⚡ Languages: **Python3 | SQL | HTML | CSS**
 
 
 <!--
