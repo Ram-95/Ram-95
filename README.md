@@ -1,4 +1,5 @@
-# Hi there 👋 [![Linkedin Badge](https://img.shields.io/badge/-Ram_Babu-blue?style=round-square&logo=Linkedin&logoColor=white&link=https://www.linkedin.com/in/ram-babu-kottapally)](https://www.linkedin.com/in/ram-babu-kottapally)
+# Ram Babu [![Linkedin Badge](https://img.shields.io/badge/-Ram_Babu-blue?style=round-square&logo=Linkedin&logoColor=white&link=https://www.linkedin.com/in/ram-babu-kottapally)](https://www.linkedin.com/in/ram-babu-kottapally)
+### Hi there 👋
 
 - 🌱 I’m currently learning **Django**
 - 🔭 I’m currently working on a **Django Project** and also do **Competitive Programming**
