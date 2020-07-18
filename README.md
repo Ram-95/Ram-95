@@ -6,7 +6,7 @@
 - 💬 Ask me about **Python** and **ETL Development**
 - 😄 Pronouns: He/Him
 - 💬 Languages & Tools: **Python3 | SQL | HTML | Informatica PowerCenter**
-- ⚡ **Space** fascinates me a LOT.
+- ⚡ **Space** fascinates me a lot.
 
 
 <!--
