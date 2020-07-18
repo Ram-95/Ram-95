@@ -5,7 +5,8 @@
 - 🔭 I’m currently learning and working on a **Django Project**. I also do **Competitive Programming**
 - 💬 Ask me about **Python** and **ETL Development**
 - 😄 Pronouns: He/Him
-- ⚡ Languages & Tools: **Python3 | SQL | HTML | Informatica PowerCenter**
+- 💬 Languages & Tools: **Python3 | SQL | HTML | Informatica PowerCenter**
+- ⚡ **Space** fascinates me a LOT.
 
 
 <!--
