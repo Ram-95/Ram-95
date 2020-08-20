@@ -1,4 +1,4 @@
-# Ram Babu [![Linkedin Badge](https://img.shields.io/badge/-Ram_Babu-blue?style=round-square&logo=Linkedin&logoColor=white&link=https://www.linkedin.com/in/ram-babu-kottapally)](https://www.linkedin.com/in/ram-babu-kottapally)
+# <a href="https://sourcerer.io/ram-95"><img src="https://avatars0.githubusercontent.com/u/29410333?v=4" height="50px" width="50px" alt=""/></a>Ram Babu [![Linkedin Badge](https://img.shields.io/badge/-Ram_Babu-blue?style=round-square&logo=Linkedin&logoColor=white&link=https://www.linkedin.com/in/ram-babu-kottapally)](https://www.linkedin.com/in/ram-babu-kottapally)
 
 ### Hi there 👋
 
