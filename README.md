@@ -7,6 +7,7 @@
 - 💬 Ask me about **Python** and **ETL Development**. I mostly code in **Python3**.
 - 😄 Pronouns: He/Him
 - 💬 Languages & Tools: **Python3 | SQL | HTML | Informatica PowerCenter**
+- ⚡ Fun fact: Physics and Space fascinates me a lot.
 - 📫 How to reach me: You can know more about me at [My Portfolio](https://ram-95.github.io).
 
 
