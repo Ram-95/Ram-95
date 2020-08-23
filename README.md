@@ -6,7 +6,7 @@
 - 🔭 I’m currently learning **Django** and working on a Sample Project ([To-Do App](https://github.com/Ram-95/to_do_app)). I also do **Competitive Programming.**
 - 💬 Ask me about **Python** and **ETL Development**.
 - 😄 Pronouns: He/Him
-- 💬 Languages & Tools: **Python3 | SQL | HTML | Informatica PowerCenter**
+- 💬 Languages & Tools: **Python3 | Oracle SQL | HTML | Informatica PowerCenter**
 - ⚡ Fun fact: Physics and Space fascinates me a lot.
 - 📫 How to reach me: You can know more about me at [My Portfolio](https://ram-95.github.io).
 
