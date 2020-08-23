@@ -2,8 +2,8 @@
 
 ### Hi there 👋
 
-- 💼 I am a **Software Engineer** with experience in *ETL Developement.*
-- 🔭 I’m currently learning and working on a **Django Project** ([To-Do App](https://github.com/Ram-95/to_do_app)). I also do **Competitive Programming.**
+- 💼 I am a **Software Engineer** with experience in *ETL Development.*
+- 🔭 I’m currently learning **Django** and working on a Sample Project ([To-Do App](https://github.com/Ram-95/to_do_app)). I also do **Competitive Programming.**
 - 💬 Ask me about **Python** and **ETL Development**.
 - 😄 Pronouns: He/Him
 - 💬 Languages & Tools: **Python3 | SQL | HTML | Informatica PowerCenter**
