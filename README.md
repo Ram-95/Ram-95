@@ -6,7 +6,7 @@
 - 🔭 I’m currently learning **Django** framework and developing some applications 
   - [To-Do App](https://github.com/Ram-95/to_do_app)
   - [Blog App](https://github.com/Ram-95/blog_application_django) 
-- I also do **Competitive Programming.**
+- 💻 I also do **Competitive Programming.**
 - 💬 Ask me about **Python** and **ETL Development**.
 - 😄 Pronouns: He/Him
 - 💬 Languages & Tools: **Python3 | Oracle SQL | HTML | Informatica PowerCenter**
