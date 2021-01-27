@@ -12,3 +12,8 @@
 - 💬 Languages & Tools: **Python3 | Oracle SQL | HTML | Informatica PowerCenter**
 - ⚡ Fun fact: Physics and Space fascinates me a lot.
 - 📫 How to reach me: You can know more about me at [My Portfolio](https://ram-95.github.io).
+
+### 📈 My Github Stats
+
+![GitHub stats](https://github-readme-stats.vercel.app/api?username=Ram-95&show_icons=true&theme=default)
+
