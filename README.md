@@ -15,5 +15,5 @@
 
 ### 📈 My Github Stats
 
-![Top Langs](https://github-readme-stats.vercel.app/api/top-langs/?username=Ram-95) &nbsp; ![GitHub stats](https://github-readme-stats.vercel.app/api?username=Ram-95&show_icons=true&theme=default) 
+![Top Langs](https://github-readme-stats.vercel.app/api/top-langs/?username=Ram-95&layout=compact) &nbsp; ![GitHub stats](https://github-readme-stats.vercel.app/api?username=Ram-95&show_icons=true&theme=default) 
 
