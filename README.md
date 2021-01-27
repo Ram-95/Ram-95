@@ -13,7 +13,6 @@
 - ⚡ Fun fact: Physics and Space fascinates me a lot.
 - 📫 How to reach me: You can know more about me at [My Portfolio](https://ram-95.github.io).
 
-### 📈 My Github Stats
 <div>
     <img align=top src="https://github-readme-stats.vercel.app/api/top-langs/?username=Ram-95&layout=compact&show_icons=true&title_color=ffffff&icon_color=34abeb&text_color=daf7dc&bg_color=151515"/>
     <img align=top src="https://github-readme-stats.vercel.app/api?username=Ram-95&show_icons=true&title_color=ffffff&icon_color=34abeb&text_color=daf7dc&bg_color=151515"/>
