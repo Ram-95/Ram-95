@@ -4,9 +4,9 @@
 
 - 💼 I am a **Software Engineer** with experience in *ETL Development.*
 - 🔭 My recent applications
-  - [To-Do App](https://github.com/Ram-95/to_do_app)
   - [Blog App](https://github.com/Ram-95/blog_application_django) 
   - [COVID-19 India Tracker](https://github.com/Ram-95/covid-19_india_data)
+  - [To-Do App](https://github.com/Ram-95/to_do_app)
 - 💻 I also do **Competitive Programming.**
 - 💬 Ask me about **Python** and **ETL Development**.
 - 😄 Pronouns: He/Him
