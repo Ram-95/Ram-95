@@ -8,7 +8,7 @@
   - [COVID-19 India Tracker](https://github.com/Ram-95/covid-19_india_data)
   - [To-Do App](https://github.com/Ram-95/to_do_app)
 - 💻 I also do **Competitive Programming.**
-- 💬 Ask me about **Python** and **ETL Development**.
+- 💬 Ask me about **Python** and **Django**.
 - 😄 Pronouns: He/Him
 - 💬 Languages & Tools: **Python3 | Django | Oracle SQL | HTML | CSS**
 - ⚡ Fun fact: Physics and Space fascinates me a lot.
