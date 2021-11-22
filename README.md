@@ -3,13 +3,13 @@
 
 ### Hi there 👋
 
-- 💼 I am a **Software Engineer** with experience in *ETL Development.*
+- 💼 I am a **Software Engineer** currently working in Python Development.
 - 🔭 Applications that I am working on
   - [Blog App](https://github.com/Ram-95/blog_application_django) 
   - [COVID-19 India Tracker](https://github.com/Ram-95/covid-19_india_data)
   - [To-Do App](https://github.com/Ram-95/to_do_app)
 - 💻 I also do **Competitive Programming.**
-- 💬 Ask me about **Python** and **Django**.
+- 💬 Ask me about **Python**, **SQL**, **Webscraping** and **Django**.
 - 😄 Pronouns: He/Him
 - 💬 Languages & Tools: **Python3 | Django | Oracle SQL | HTML | CSS**
 - ⚡ Fun fact: Physics and Space fascinates me a lot.
