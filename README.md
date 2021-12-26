@@ -11,7 +11,7 @@
 - 💻 I also do **Competitive Programming.**
 - 💬 Ask me about **Python**, **SQL**, **Webscraping** and **Django**.
 - 😄 Pronouns: He/Him
-- 💬 Languages & Tools: **Python3 | Django | Oracle SQL | HTML | CSS**
+- 💬 Languages: **Python3 | Django | SQL | HTML | CSS | jQuery**
 - ⚡ Fun fact: Physics and Space fascinates me a lot.
 - 📫 How to reach me: You can know more about me at [My Portfolio](https://ram-95.github.io).
 
