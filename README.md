@@ -22,4 +22,4 @@
 
 ### StackOverFlow Profile
 <p align="center" width="100%">
-<a href="https://stackoverflow.com/users/2773206/ram"><img src="https://stackoverflow.com/users/flair/2773206.png?theme=dark" width="208" height="58" alt="profile for Ram at Stack Overflow, Q&amp;A for professional and enthusiast programmers" title="profile for Ram at Stack Overflow, Q&amp;A for professional and enthusiast programmers"></a></p>
+<a href="https://stackoverflow.com/users/2773206/ram"><img src="https://stackoverflow.com/users/flair/2773206.png?theme=dark" target="_blank" width="208" height="58" alt="profile for Ram at Stack Overflow, Q&amp;A for professional and enthusiast programmers" title="profile for Ram at Stack Overflow, Q&amp;A for professional and enthusiast programmers"></a></p>
