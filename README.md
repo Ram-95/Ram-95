@@ -14,14 +14,14 @@
 - ⚡ Fun fact: Physics and Space fascinates me a lot.
 - 📫 How to reach me: You can know more about me at [My Portfolio](https://ram-95.github.io).
 
+### Github Stats
+<div class='container'>
+<img style="height: auto; width: 55%;" class="img" src="https://github-readme-stats.vercel.app/api?username=Ram-95&show_icons=true&theme=blue-green" />
+&nbsp;
+&nbsp;
+<img style="height: auto; width: 40%;" class="img" src="https://github-readme-stats.vercel.app/api/top-langs/?username=Ram-95&theme=blue-green&langs_count=5&layout=compact" />
+</div>
+
 ### StackOverFlow Profile
 <p align="center" width="100%">
 <a href="https://stackoverflow.com/users/2773206/ram"  target="_blank"><img src="https://stackoverflow.com/users/flair/2773206.png?theme=dark" width="208" height="58" alt="profile for Ram at Stack Overflow, Q&amp;A for professional and enthusiast programmers" title="profile for Ram at Stack Overflow, Q&amp;A for professional and enthusiast programmers"></a></p>
-
-### Github Stats
-<p align="center" width="100%">
-<div>
-    <img align=top src="https://github-readme-stats.vercel.app/api/top-langs/?username=Ram-95&layout=compact&show_icons=true&title_color=ffffff&icon_color=34abeb&text_color=daf7dc&bg_color=151515"/>
-    <img align=top src="https://github-readme-stats.vercel.app/api?username=Ram-95&show_icons=true&title_color=ffffff&icon_color=34abeb&text_color=daf7dc&bg_color=151515"/>
-</div>
-</p>
