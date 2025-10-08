@@ -3,7 +3,7 @@
 
 ### Hi there 👋
 
-- 💼 I am a **Python Developer**
+- 💼 I am a **Backend Engineer**
 - 💻 I also do **Competitive Programming.**
 - 💬 Ask me about **Python**, **SQL**, **Webscraping**, **Databases**, **FastAPI** and **Django**.
 - 😄 Pronouns: He/Him
